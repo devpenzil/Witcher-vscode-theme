@@ -2,9 +2,19 @@
     "name": "devpenzil",
     "displayName": "witcher",
     "description": "Simple theme for vs code",
+    "publisher": "devpenzil",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
+    },
+    "author": {
+        "name": "Devpenzil",
+        "email": "ajoalex012@gmail.com",
+        "url": "https://github.com/devpenzil"
+    },
+    "repository": {
+        "url": "https://github.com/devpenzil/Witcher-vscode-theme",
+        "type": "git"
     },
     "categories": [
         "Themes"
