@@ -90,7 +90,7 @@
 		"list.hoverBackground": "#393E46",
 		"list.errorForeground": "#FF5C56",
 		"list.warningForeground": "#B38700",	
-		"list.highlightForeground": "#1B262C",
+		"list.highlightForeground": "#F5FDB0",
 
 		// Notifications
 		"notifications.background": "#1B262C",
@@ -186,7 +186,10 @@
 		"badge.background": "#00FFF5",
 		"badge.foreground": "#222831",
 
-		"progressBar.background": "#00FFF5"
+		// Progress bar
+		"progressBar.background": "#00FFF5",
+
+		
 	},
 	"tokenColors": [
 		{
