@@ -20,8 +20,8 @@
 		"menubar.selectionBackground": "#E9EAEB",
 		"menubar.selectionForeground": "#686968",
 		"editor.background": "#222831",
-		"editor.foreground": "#565869",
-		"editorWhitespace.foreground": "#ADB1C255",
+		"editor.foreground": "#ffffff",
+		"editorWhitespace.foreground": "#5b74e655",
 
 		// Title bar
 		"titleBar.activeBackground": "#F3F4F5",
@@ -53,7 +53,7 @@
 		"editor.lineHighlightBackground": "#1B262C",
 
 		// Bracket match
-		"editorBracketMatch.background": "#E9EAEB",
+		"editorBracketMatch.background": "#1B262C",
 		"editorBracketMatch.border": "#00000000",
 		"editor.foldBackground": "#F3F4F5",
 		
@@ -185,6 +185,8 @@
 		// Badges
 		"badge.background": "#00FFF5",
 		"badge.foreground": "#222831",
+
+		"progressBar.background": "#00FFF5"
 	},
 	"tokenColors": [
 		{
@@ -269,7 +271,7 @@
 				"support.variable",
 			],
 			"settings": {
-				"foreground": "#565869",
+				"foreground": "#94DAFF",
 			},
 		},
 		{
@@ -486,7 +488,7 @@
 				"keyword.control.@",
 			],
 			"settings": {
-				"foreground": "#ADB1C2",
+				"foreground": "#adc2ad",
 			},
 		},
 		
@@ -579,7 +581,7 @@
 				"source.css support.type.property-name",
 			],
 			"settings": {
-				"foreground": "#565869",
+				"foreground": "#ED50F1",
 			},
 		},
 		{
@@ -828,7 +830,7 @@
 				"storage.type.function.arrow",
 			],
 			"settings": {
-				"foreground": "#ADB1C2",
+				"foreground": "#ffffff",
 			},
 		},
 		{
