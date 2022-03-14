@@ -3,10 +3,11 @@
     "displayName": "witcher",
     "description": "Simple theme for vs code",
     "publisher": "devpenzil",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.65.0"
     },
+    "icon": "icons/icon.png",
     "author": {
         "name": "Devpenzil",
         "email": "ajoalex012@gmail.com",

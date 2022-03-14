@@ -191,7 +191,7 @@
 			"name": "Invalid - Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#FF5C56",
+				"foreground": "#00FFF5",
 			},
 		},
 		{
@@ -862,7 +862,7 @@
 			"name": "JSX: Plain text",
 			"scope": "meta.jsx.children",
 			"settings": {
-				"foreground": "#686968",
+				"foreground": "#fff",
 			},
 		},
 		
