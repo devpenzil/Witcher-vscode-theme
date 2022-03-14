@@ -1,5 +1,8 @@
 # Witcher by Devpenzil
 
+## Screenshots
+![ss1](/icons/Screenshot%20from%202022-03-14%2021-39-36.png)
+![ss2](/icons/Screenshot%20from%202022-03-14%2021-40-47.png)
 ## Usage
 
 > Go to vs code
