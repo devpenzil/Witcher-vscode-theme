@@ -210,7 +210,7 @@
 				"support.type.property-name constant.character.escape",
 			],
 			"settings": {
-				"foreground": "#11658F",
+				"foreground": "#FFD369",
 			},
 		},
 		{
@@ -291,7 +291,7 @@
 				"support.function",
 			],
 			"settings": {
-				"foreground": "#09A1ED",
+				"foreground": "#A9F1DF",
 			},
 		},
 		{
@@ -526,7 +526,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#04d1bc",
+				"foreground": "#3EDBF0",
 			},
 		},
 		{

@@ -3,7 +3,7 @@
     "displayName": "witcher",
     "description": "Simple theme for vs code",
     "publisher": "devpenzil",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.65.0"
     },
