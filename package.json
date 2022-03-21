@@ -23,9 +23,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "witcher",
+                "label": "witcher-dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/witcher-color-theme.json"
+            },
+            {
+                "label": "witcher-light",
+                "uiTheme": "vs",
+                "path": "./themes/witcher-light-theme.json"
             }
         ]
     }
